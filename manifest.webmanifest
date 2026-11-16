@@ -1,0 +1,19 @@
+{
+  "name": "1С Академия",
+  "short_name": "1С Академия",
+  "description": "Бесплатная платформа для изучения 1С",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f7f3",
+  "theme_color": "#ffdc43",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
